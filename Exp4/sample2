@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Apr  2 04:52:18 2026
+
+@author: User
+"""
+
+string=input("Enter a string:")
+reversed_string=string[::-1]
+print("Reversed string:",reversed_string)
