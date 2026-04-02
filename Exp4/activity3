@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Apr  2 05:40:52 2026
+
+@author: User
+"""
+
+
+feedback = ("Great service and fast delivery")
+reversed_feedback = feedback[::-1]
+print("Original Feedback:", feedback)
+print("Reversed Feedback:", reversed_feedback)
